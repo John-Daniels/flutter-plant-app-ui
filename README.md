@@ -1,5 +1,7 @@
 # plant_app
 
+![showcase](./showcase/plant.png)
+
 A new Flutter project.
 
 ## Getting Started
